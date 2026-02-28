@@ -18,6 +18,8 @@ public class ArraySum {
         int size = sc.nextInt();
 
         int nums[]=new int[size];
+
+        System.out.println("Start Entering the numbers");
         for(int i=0; i<size; i++)
         {
             nums[i]=sc.nextInt();
